@@ -23,3 +23,6 @@ If you would like to contact me with questions, ideas, or ways you would improve
   My Email: [b33na1997@gmail.com](mailto:b33na1997@gmail.com)
 ## Github
 Here is my GitHub page: [https://github.com/sabrinalemay/React-Portfolio]
+
+
+![8DD2D5C4-F49F-4F7A-8898-B8C77EF51771](https://user-images.githubusercontent.com/103804456/190884543-3e91ed8d-8106-4d90-9afa-016f6ba08c1a.jpeg)
