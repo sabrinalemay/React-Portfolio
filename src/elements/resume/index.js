@@ -18,17 +18,17 @@ function Resume() {
           <p class="mt-5">
             <a href="https://www.linkedin.com/in/sabrina-lemay-63932923a/">
               <img
-                src="https://img.icons8.com/fluent/48/000000/linkedin.png"
-                alt="inkedIn"
+                src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/wafobb7hb5abdcgff3iv"
+                alt="linkedIn"
               />
             </a>
           </p>
 
           <a
-            href="https://github.com/sabrinalemay/React-Portfolio"
+            href="https://my.indeed.com/resume/editor"
             class="link"
           >
-            Download Resume
+            Open Resume
           </a>
         </div>
       </div>

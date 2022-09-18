@@ -6,6 +6,7 @@ function Navigation(props) {
   return (
     <div>
       <Navbar expand="lg" bg="dark" sticky="top">
+        {/* I want this to be green  */}
         <NavLink className="nav-link" to="/">
           <div class="text-light">
             <h4 class="nav-title-font">Sabrina LeMay</h4>
