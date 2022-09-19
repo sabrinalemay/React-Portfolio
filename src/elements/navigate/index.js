@@ -1,11 +1,12 @@
 import React from "react";
 import { Navbar } from "react-bootstrap";
 import {NavLink} from "react-router-dom";
+import "../../index.css"
 
 function Navigation(props) {
   return (
     <div>
-      <Navbar expand="lg" bg="dark" sticky="top">
+      <Navbar className="nav-container" expand="lg"  sticky="top">
         {/* I want this to be green  */}
         <NavLink className="nav-link" to="/">
           <div class="text-light">

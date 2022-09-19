@@ -154,6 +154,10 @@ li {
   list-style: none;
 }
 
+.nav-container {
+  background-color: green !important;
+}
+
 .nav-font {
   font-family: 'Audiowide' ;
   font-size: 1.5em;
