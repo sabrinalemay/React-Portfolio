@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sabrinalemay/React-Portfolio/static/css/main.c53e9fb9.chunk.css",
+    "main.js": "/sabrinalemay/React-Portfolio/static/js/main.7bde536b.chunk.js",
+    "main.js.map": "/sabrinalemay/React-Portfolio/static/js/main.7bde536b.chunk.js.map",
+    "runtime-main.js": "/sabrinalemay/React-Portfolio/static/js/runtime-main.77ea02b6.js",
+    "runtime-main.js.map": "/sabrinalemay/React-Portfolio/static/js/runtime-main.77ea02b6.js.map",
+    "static/css/2.467b4cbb.chunk.css": "/sabrinalemay/React-Portfolio/static/css/2.467b4cbb.chunk.css",
+    "static/js/2.a03b9d32.chunk.js": "/sabrinalemay/React-Portfolio/static/js/2.a03b9d32.chunk.js",
+    "static/js/2.a03b9d32.chunk.js.map": "/sabrinalemay/React-Portfolio/static/js/2.a03b9d32.chunk.js.map",
+    "index.html": "/sabrinalemay/React-Portfolio/index.html",
+    "static/css/2.467b4cbb.chunk.css.map": "/sabrinalemay/React-Portfolio/static/css/2.467b4cbb.chunk.css.map",
+    "static/css/main.c53e9fb9.chunk.css.map": "/sabrinalemay/React-Portfolio/static/css/main.c53e9fb9.chunk.css.map",
+    "static/js/2.a03b9d32.chunk.js.LICENSE.txt": "/sabrinalemay/React-Portfolio/static/js/2.a03b9d32.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77ea02b6.js",
+    "static/css/2.467b4cbb.chunk.css",
+    "static/js/2.a03b9d32.chunk.js",
+    "static/css/main.c53e9fb9.chunk.css",
+    "static/js/main.7bde536b.chunk.js"
+  ]
+}
